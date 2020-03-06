@@ -1,0 +1,33 @@
+﻿  MyForm.cpp
+c:\users\carlos tarazona\documents\trabajos_finales\tf_aed\tf_juego\tf_algoritmosjf\CFantasma.h(65): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\carlos tarazona\documents\trabajos_finales\tf_aed\tf_juego\tf_algoritmosjf\CMapa.h(45): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\carlos tarazona\documents\trabajos_finales\tf_aed\tf_juego\tf_algoritmosjf\CMapa.h(89): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\carlos tarazona\documents\trabajos_finales\tf_aed\tf_juego\tf_algoritmosjf\CMapa.h(97): warning C4018: '<': no coinciden signed/unsigned
+c:\users\carlos tarazona\documents\trabajos_finales\tf_aed\tf_juego\tf_algoritmosjf\CMapa.h(131): warning C4018: '<': no coinciden signed/unsigned
+c:\users\carlos tarazona\documents\trabajos_finales\tf_aed\tf_juego\tf_algoritmosjf\CMapa.h(160): warning C4018: '<': no coinciden signed/unsigned
+c:\users\carlos tarazona\documents\trabajos_finales\tf_aed\tf_juego\tf_algoritmosjf\CMapa.h(187): warning C4018: '<': no coinciden signed/unsigned
+c:\users\carlos tarazona\documents\trabajos_finales\tf_aed\tf_juego\tf_algoritmosjf\Menu.h(33): warning C4805: '==': combinación no segura del tipo 'int' y el tipo 'bool' en la operación
+c:\users\carlos tarazona\documents\trabajos_finales\tf_aed\tf_juego\tf_algoritmosjf\Menu.h(75): warning C4805: '==': combinación no segura del tipo 'int' y el tipo 'bool' en la operación
+c:\users\carlos tarazona\documents\trabajos_finales\tf_aed\tf_juego\tf_algoritmosjf\Juego_go.h(121): warning C4018: '<': no coinciden signed/unsigned
+MyForm.cpp(7): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+c:\users\carlos tarazona\documents\trabajos_finales\tf_aed\tf_juego\tf_algoritmosjf\CLista.h(106): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\carlos tarazona\documents\trabajos_finales\tf_aed\tf_juego\tf_algoritmosjf\CLista.h(103): note: durante la compilación de la función miembro de plantilla de clase 'CMapa Lista<CMapa *,0x0>::obtenerPos(uint)'
+  c:\users\carlos tarazona\documents\trabajos_finales\tf_aed\tf_juego\tf_algoritmosjf\Juego_go.h(151): note: vea la referencia a la creación de instancias de plantilla de función 'CMapa Lista<CMapa *,0x0>::obtenerPos(uint)' que se está compilando
+  c:\users\carlos tarazona\documents\trabajos_finales\tf_aed\tf_juego\tf_algoritmosjf\Juego_go.h(50): note: vea la referencia a la creación de instancias de plantilla de clase 'Lista<CMapa *,0x0>' que se está compilando
+c:\users\carlos tarazona\documents\trabajos_finales\tf_aed\tf_juego\tf_algoritmosjf\CLista.h(81): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\carlos tarazona\documents\trabajos_finales\tf_aed\tf_juego\tf_algoritmosjf\CLista.h(74): note: durante la compilación de la función miembro de plantilla de clase 'void Lista<CMapa *,0x0>::agregaPos(T,uint)'
+          with
+          [
+              T=CMapa *
+          ]
+  c:\users\carlos tarazona\documents\trabajos_finales\tf_aed\tf_juego\tf_algoritmosjf\CLista.h(97): note: vea la referencia a la creación de instancias de plantilla de función 'void Lista<CMapa *,0x0>::agregaPos(T,uint)' que se está compilando
+          with
+          [
+              T=CMapa *
+          ]
+  c:\users\carlos tarazona\documents\trabajos_finales\tf_aed\tf_juego\tf_algoritmosjf\CLista.h(55): note: durante la compilación de la función miembro de plantilla de clase 'uint Lista<CMapa *,0x0>::longitud(void)'
+  c:\users\carlos tarazona\documents\trabajos_finales\tf_aed\tf_juego\tf_algoritmosjf\Juego_go.h(145): note: vea la referencia a la creación de instancias de plantilla de función 'uint Lista<CMapa *,0x0>::longitud(void)' que se está compilando
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  MyForm.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  TF_AlgoritmosJF.vcxproj -> C:\Users\Carlos Tarazona\Documents\Trabajos_Finales\TF_AED\TF_Juego\Debug\TF_AlgoritmosJF.exe
+  TF_AlgoritmosJF.vcxproj -> C:\Users\Carlos Tarazona\Documents\Trabajos_Finales\TF_AED\TF_Juego\Debug\TF_AlgoritmosJF.pdb (Partial PDB)
